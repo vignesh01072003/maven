@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
     
-    <label for="mobile"><b>Enter hi</b></label>
+    <label for="mobile"><b>Enter vicky</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
